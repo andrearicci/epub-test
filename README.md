@@ -1,4 +1,4 @@
 epub-test
 =========
 
-testing the possibbility to edit epubs with git in collaboration
+testo la possibilità di editare epub in maniera collaborativa
